@@ -3,10 +3,13 @@
 
 ![Book Cover](./cover.png)
 
+**OPEN ACCESS**  
+
 **Author**: Alexandre A. Emerick  
 **Publisher**: Petrobras  
 **Year**: 2025  
-**ISBN**: 978-6588763292  
+**ISBN**: 978-6588763292 
+
 
 📄 [Download the PDF](https://publicacoesup.petrobras.com.br/peld/catalog/book/54)
 
