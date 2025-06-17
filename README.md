@@ -1,14 +1,14 @@
 # ensemble-data-assimilation-book
 # Ensemble Data Assimilation Applied to Geological Reservoir Models
 
-![Book Cover](https://publicacoesup.petrobras.com.br/peld/catalog/book/54/cover_image.jpg) <!-- Optional: update if actual image is available -->
+![Book Cover](./cover.png)
 
 **Author**: Alexandre A. Emerick  
 **Publisher**: Petrobras  
 **Year**: 2025  
 **ISBN**: 978-6588763292  
 
-📄 [Download the PDF](./ensemble_adata_assimilation_e-book.pdf)
+📄 [Download the PDF](https://publicacoesup.petrobras.com.br/peld/catalog/book/54)
 
 ## About the Book
 
