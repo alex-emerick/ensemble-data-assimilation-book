@@ -80,8 +80,11 @@ A central focus is on iterative ensemble smoothers, particularly the Ensemble Sm
 - Representative Models
 
 A. Elements of Linear Algebra
+
 B. Elements of Linear Inverse Problems
+
 C. Elements of Probability and Geostatistics
+
 D. Brief Literature Review
 
 ### Intended Audience
