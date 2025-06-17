@@ -24,7 +24,7 @@ A central focus is on iterative ensemble smoothers, particularly the Ensemble Sm
 - Uncertainty
 - Forward Problem 
 - Inverse Problem
--- Bayesian Viewpoint 
+- Bayesian Viewpoint 
 - Ensembles 
 
 2. Bayesian Formulation of the Data Assimilation Problem
