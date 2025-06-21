@@ -13,6 +13,9 @@
 
 📄 [Download the PDF](https://publicacoesup.petrobras.com.br/peld/catalog/book/54)
 
+The book is *open access* but if you would like a hard copy, you can find it at *Amazon.com*
+
+
 ## About the Book
 
 *Ensemble Data Assimilation Applied to Geological Reservoir Models* offers an in-depth examination of ensemble-based data assimilation methods for the numerical modeling of geological reservoirs. Grounded in a Bayesian framework, the book emphasizes the integration of prior geological knowledge with dynamic data to improve model predictions.
